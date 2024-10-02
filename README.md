@@ -1,4 +1,4 @@
 # Projekti
-V RAR datoteki se nahajajo različni projekti, kjer sem uporabljal Bash, Docker, Python, CSharp in C++ ter različne knjižnice.
+V stisnjeni datoteki se nahajajo različni projekti, kjer sem uporabljal Bash, Docker, Python, CSharp in C++ ter različne knjižnice.
 
-Stisnjena datoteka je zaščitena s ključem. Za dostop me kontaktirajte.
+Datoteka so zaščitene s ključem. Za dostop me kontaktirajte.
